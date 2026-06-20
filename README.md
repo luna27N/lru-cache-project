@@ -90,4 +90,4 @@ This implementation builds the mechanism manually to demonstrate the underlying 
 
 ## Author
 
-Naviya Kanniyapan ([@luna27](https://github.com/luna27))
+Naviya Kanniyapan ([@luna27N](https://github.com/luna27N))
